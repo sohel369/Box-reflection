@@ -25,12 +25,14 @@
 .box1 h1{
     text-align: center;
     font-size: 28px;
-    color: white;
+    color: green;
     padding: 20px 20px;
 }
 .box1 p{
     text-align: justify;
 }
+
+
 /* .box1 img{
     width: 250px;
     margin-top: 20px;
